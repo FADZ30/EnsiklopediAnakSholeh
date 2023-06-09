@@ -1,0 +1,409 @@
+<resources>
+    <string name="app_name">Ensiklopedi Anak Sholeh</string>
+
+    <string name="Jslide1">Belajar Menjadi Lebih Mudah Dan Menyenangkan</string>
+    <string name="Jslide2">Bebas Akses Kapan Saja</string>
+    <string name="Jslide3">Belajar secara digital</string>
+
+    <string name="slide1">Menyediakan bahan ajar materi dasar agama Islam yang lengkap dan mudah dipahami. Materi dasar seperti sholat, zakat, puasa, dan lain-lain yang terdiri dari teks dan gambar untuk memperjelas materi.</string>
+    <string name="slide2">Dibuat agar dapat diakses kapan saja dan dimana saja sehingga tidak perlu membawa buku jika ingin membukanya walau dalam kondisi yang kurang memungkinkan</string>
+    <string name="slide3">Aplikasi ini dibuat agar anak-anak dapat memanfaatkan teknologi sebagai salah satu media pembelajaran yang efektif serta mempermudah dalam mendalami suatu hala terutama dalam ilmu agama</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string name="iman1">Iman artinya percaya dengan yakin tanpa ada keraguan. Orang yang beriman disebut mukmin. Sedangkan menurut syariat iman adalah :</string>
+    <string name="iman2">تَصْدِيقٌ بِالْقَلْبِ وَاقْرَارٌ بِالْسَانِ وَعَمَلَ بِالْأَرْكَان</string>
+    <string name="iman3">Yaitu : membenarkan dengan hati, mengucapkan dengan lisan dan mengerjakan dengan perbuatan.</string>
+    <string name="iman4">Jadi, kita sebagai anak ytang sholeh dan sholehah, harus beriman kepada rukun iman dan mengetahui maksud dari setiap rukun tersebut agar menjadi muslim yang baik.</string>
+    <string name="iman5">Dalam suatu hadis shahih dijelaskan, yaitu ketika Nabi Saw. ditanya malaikat jibril tentang apak iman itu? Nabi menjawab,</string>
+    <string name="iman6">قَالَ : أَنْ تُؤْمِنَ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْآخِرِ وَتُؤْمِنَ بِالْقَدَرِ خَيْرِهِ وَشَرِّهِ. قَالَ صَدَقْتَ</string>
+    <string name="iman7">Artinya: "Iman adalah, engkau beriman kepada Allah; malaikat-malaikatnya; dan beriman kepada takdir Allah yang baik dan yang buruk," malaikat jibril berkata,"Engkau benar."[HR Muslim]</string>
+    <string name="iman8">يَايُّهَا الَّذِينَ آمَنُوا أَمِنُوا بِاللَّهِ وَرَسُولِهِ وَالْكِتَبِ الَّذِي نَزَّلَ عَلَى رَسُولِهِ وَالْكِتَبِ الَّذِي أَنْزَلَ مِن قَبْلُ وَمَنْ يَكْفُرْ بِاللَّهِ وَمَلَيكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْيَوْمِ الْآخِرِ فَقَدْ ضَلَّ ضَالًا بَعِيدً</string>
+    <string name="iman9">Artinya : Wahai orang-orang yang beriman, tetaplah beriman kepada Allah dan Rasul-nya dan kepada kitab yang Allah turunkan kepada Rasul-nya serta kitab tang Allah turunkan sebelumnya. Barangsiapa yang kafir kepada Allah, Malaikat-malaikat-nya, kitab-kitab-nya, rasul-rasul-nya, dan hari kemudian, maka sesungguhnya orang itu telah sesat sejauh-jauhnya. (Q.S.An-Nisa  ayat 136).</string>
+
+    <string name="islam1">Islam adalah agama tauhid(universal) yang diturunkan Allah SWT kepada nabi muhammad SAW untuk disampaikan kepada umat manusia sebagai tuntunan(pedoman) agar selamat didunia dan akhirat. Orang yang memeluk agama Islam disebut muslim atau muslimah.</string>
+    <string name="islam2">Agama Islam dibangun atas lima dasar yang kita sebut dengan rukun islam. Nabi bersabda :</string>
+    <string name="islam3">عَنْ أَبِي عَبْدِ الرَّحْمَنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُمَا قَالَ : سَمِعْتُ رَسُوْلَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : بُني الْإِسْلَامُ عَلَى خَمْسٍ : شَهَادَةِ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَ أَنَّ مُحَمَّدًا رَسُولُ اللهِ وَإِقَامِ الصَّلَاةِ وَ ِإيتَاءِ الزَّكَاةِ وَ حَجِّ الْبَيْتِ وَ صَوْمِ رَمَضَانَ</string>
+    <string name="islam4">Dari Abu Abdirrahman Abdillah bin Umar bin Khaththab radhiyallahu anhuma, dia berkata "Aku pernah mendengar Rasulullah shallalahu alaihi wassalam bersabda : Islam itu dibangun di atas lima perkara, yaitu : bersaksi tiada sesembahan yang haq kecuali Allah dan sesungguhnya Muhammad adalah utusan Allah, menegakkan shalat, mengeluarkan zakat, mengerjakan haji ke Baitullah, dan berpuasa pada bulan ramadhan." (HR. Bukhari dan Muslim)</string>
+    <string name="islam5">Dari hadis di atas berarti jumlah rukun islam ada lima yaitu :\n1. Membaca kedua kalimat syahadat\n2. Melaksanakan Shalat\n3. Membayar zakar\n4. Puasa dibulan Ramadhan\n5. Melaksanakan haji bagi yang mampu</string>
+
+    <string name="khdp1">Ada empat yang dilalui manusia dalam kehidupannya, yaitu : Alam Rahim, Alam Dunia, Alam Kubur, Dan Alam Akhirat. Nah, kita sekarang berada di alam dunia. Selanjutnya apabila kita telah mati, ruh kita akan berpindah ke alam kubur</string>
+    <string name="khdp2">Alam kubur adalah alam dimana tempat para roh manusia yang telah mati di dunia. Alam kubur disebut juga dengan alam barzakh. Di dalam kubur orang yang beriman dan baik akan mendapatkan nikmat kubur. Dan sebaliknya orang yang buruk dan jahat akan mendapatkan siksa kubur.</string>
+    <string name="khdp3">Ketika orang yang akan meninggal dunia dalam keadaan beriman, malaikat maut yaitu Izrail menampakkan wajahnya yang tampan dan berseri-seri. Kemudian roh orang yang beriman tadi dicabut dengan halus dan mudah. Selanjutnya roh tersebut dibawa kelangit. Di sepanjang perjalanan, ia disambut oleh malaikat-malaikat yang mengaguminya.</string>
+    <string name="khdp4">Setiap orang yang telah meninggal akan ditanya empat pertanyaan di alam kubur yaitu : \n1. Siapakah Tuhanmu ? Ia menjawab : Allah \n2. Apa Agamamu ? Ia Menjawa : Islam \n3. Siapa nabimu ? Ia menjawab : Muhammad bin Abdullah \n4. Apa petunjukmu ? Ia menjawab : Al-quran</string>
+    <string name="khdp5">Ketika orang yang akan meninggal adalah orang jahat, malaikat Izrail menampakkan wajahnya yang kasar dan mengerikan. Kemudian roh yang jahat tadi dicabut dengan kasar dan mengerikan.</string>
+    <string name="khdp6">Orang jahat akan ditanya oleh malaikat munkar dan nakir seperti orang yang beriman, akan tetapi ia tidak bisa menjawab. Kemudian malaikat memukul tubuhnya dengan palu besi yang besar sehingga ia sangat merasakan kesakitan dan menjerit dengan suara yang sangat keras.</string>
+    <string name="khdp7">Kiamat adalah hari akhir dari kehidupan di dunia ini. Kiamat pasti datang, karena telah dijanjikan oleh Allah. Tapi tidak ada yang tahu kapan kiamat terjadi kecuali hanya Allah. Allah Berfirman : </string>
+    <string name="khdp8">اِنَّ اللّٰهَ عِنْدَهٗ عِلْمُ السَّاعَةِۚ وَيُنَزِّلُ الْغَيْثَۚ وَيَعْلَمُ مَا فِى الْاَرْحَامِۗ وَمَا تَدْرِيْ نَفْسٌ مَّاذَا تَكْسِبُ غَدًاۗ وَمَا تَدْرِيْ نَفْسٌۢ بِاَيِّ اَرْضٍ تَمُوْتُۗ اِنَّ اللّٰهَ عَلِيْمٌ خَبِيْرٌ </string>
+    <string name="khdp9"> Sesungguhnya hanya di sisi Allah ilmu tentang hari Kiamat; dan Dia yang menurunkan hujan, dan mengetahui apa yang ada dalam rahim. Dan tidak ada seorang pun yang dapat mengetahui (dengan pasti) apa yang akan dikerjakannya besok. Dan tidak ada seorang pun yang dapat mengetahui di bumi mana dia akan mati. Sungguh, Allah Maha Mengetahui, Maha Mengenal.</string>
+    <string name="khdp10">Setelah semuanya hancur tidak ada yang tersisa, suasana menjadi sepi tanpa kehidupan selama 40 tahun. kemudian Allah menghidupkan kembail malaikat Jibril, Mikail, Isrofil, Izroil dan malaikat pemikul Arsy. Selanjutnya Allah menyuruh Malaikat Isrofil untuk meniup sangkakakla yang kedua. Maka semua manusia hidup kembali. Inilah yang dinamakan hari kebangkitan. Yaitu bangkitnya manusia sejak nabi Adam as. Hingga hari itu manusia akan hidup kembali.</string>
+    <string name="khdp11">Surga adalah tempat kenikmatan yang abadi. Tempat yang enak dipandang mata. Sesuatu hal-hal yang kita inginkan ada di dalamnya. Surga adalah tempat bagi mereka orang-orang beriman dan orang-orang mengerjakan amal sholeh.</string>
+    <string name="khdp12">1.Surga Firdaus \n2.Surga Adn \n3.Surga Naiim \n4. Surga Mawa \n5. Surga Darussalam \n6. Surga maqoomul Amin \n7.Surga Darul Muqoomah</string>
+    <string name="khdp13">a. Orang yang beriman dan beramal saleh. \nb. Orang yang bertaqwa kepada Allah \nc.Orang yang menjaga Sholatnya \nd. Orang yang amanah dan menepati janjinya \ne. orang yang aktif menunaikan zakat dan menginfakkan hartanya \nf. Orang yang sabar dan banyak bersyukur \ng. Orang yang berbuat kebaikan.</string>
+    <string name="khdp14">Neraka adalah tempat siksaan yang abadi. Di dalamnya terdapat segala macam siksaan yang tidak bisa dibayangkan oleh manusia. Neraka adalah balasan bagi orang-orang kafir, orang-orang yang melakukan maksiat dan perbuata-perbuatan lain yang tidak diridhoi Allah SWT</string>
+    <string name="khdp15">1. Jahannam \n2. Jahim \n3. Hawiyah \n4. Wail \n5. Sair \n6.Saqar \n7. hutomah</string>
+    <string name="khdp16">a. Orang kafir \nb. Orang yang penuh dosa \nc. Orang yang mementingkan kehidupan dunia dan melupakan akhirat \nd. Orang yang menentang ayat-ayat Allah \ne. Orang yang suka menghardik anak yatim \nf. Orang yang tidak memberi makan fakir miskin \ng. Orang yang melalaikan sholatnya \nh. Para pengumpat, pencel dan Penghina orang lain.</string>
+
+    <string name="rki1">Cara kita beriman kepada Allah ialah meyakini bahwa tidak ada tuhan selain Allah, Allah SWT mempunyai sifat maha sempurna dan Allah mahasuci dari sifat-sifat kekurangan. Allah adalah dzat yang menciptakan kita dan alam semesta ini dan Allah swt. juga yang memberi rizqi kepada smeua makhluk-Nya. Allah maha mengetahui segala sesuatu segala-galanya, sampai kehendak kita di dalam hatipun Allah mengetahuinya. Dan Allah swt. Maha kuasa atas segala sesuatu.</string>
+    <string name="rki2">Cara kita beriman kepada malaikat-malaikat Allah yaitu meyakini bahwa malaikat adalah hamba-hamba Allah yang senantiasa taat melaksanakan perintah-Nya, tidak pernah melakukan maksiat atau membangkan, selalu bertasbih (mensucikan Allah), dan bertahmid (memuji Allah) kepada-Nya. Mereka tidak makan dan minum, dan meyakini bahwa malaikat itu tidak laki-laki maupun perempuan</string>
+    <string name="rki3">Cara kita beriman kepada kitab-kitab Allah yaitu kita meyakini bahwa Allah Swt. menurunkan Kitab-kitab-Nya kepada para Rasul sebagai petunjuk dan pedoman bagi kehidupan umat manusia agar selamat dan bahagia di Dunia dan di negeri Akhirat. Di dalam Kitab-kitab itu berisi perintah-perintah Allah, larangan -larangan-Nya, janji-Nya dan ancaman-Nya.</string>
+    <string name="rki4">Cara kita beriman kepada para Rasul Allah yaitu bahwa Allah SWT. Mengutus para rasul dengan haq (sebenar-benarnya), sebagai pemberi kabar gembira bagi orang-orang yang beriman kepada Allah SWT dan pemberi kabar buruk bagi orang-orang yang tercela atau ingkar. Mereka dibari anugerah oleh Allah berupa mukjizat dengan ayat-ayat-Nya (tanda-tanda kekuasaan-Nya)</string>
+    <string name="rki5">Cara kita beriman kepada hari kiamat yaitu kita meyakini bahwa hari kiamat pasti terjadi dan tidak ada keraguan padanya tentang kejadiannya dan kita meyakini bahwa Allah SWT akan membangkitkan dan menghidupkan kembali manusia setelah kemaiannya dari alam kubur dan mengumpulkannya di padang mahsyar.</string>
+    <string name="rki6">Cara kita beriman kepada qada dan qadar Allah yaitu bahwa semua yang terjadi terhadap manusia dan semua mahkluk-Nya adalah kehendak Allah SWT dan sudah ditentukan oleh-Nya pada zaman azali. Zaman azali adalah zaman sebelum diciptakan-Nya alam semesta dan seisinya</string>
+
+    <string name="doa11">بِسْمِكَ االلّٰهُمَّ اَحْيَا وَبِاسْمِكَ اَمُوْتُ</string>
+    <string name="doa12">Bismikallaahumma ahyaa wa ammuut</string>
+    <string name="doa13">Artinya: "Dengan menyebut nama Allah, aku hidup dan aku mati"</string>
+    <string name="doa21">َلْحَمْدُ ِللهِ الَّذِىْ اَحْيَانَا بَعْدَمَآ اَمَاتَنَا وَاِلَيْهِ النُّشُوْرُ</string>
+    <string name="doa22">Alhamdu lillahil ladzii ahyaanaa ba’da maa amaa tanaa wa ilahin nusyuuru</string>
+    <string name="doa23">Artinya: "Segala puji bagi Allah yang telah menghidupkan kami sesudah kami mati (membangunkan dari tidur) dan hanya kepada-Nya kami dikembalikan"</string>
+    <string name="doa31">َللّٰهُمَّ اِنّىْ اَعُوْذُبِكَ مِنَ الْخُبُثِ وَالْخَبَآئِثِ</string>
+    <string name="doa32">Allahumma Innii auudzubika minal khubutsi wal khoaaitsi</string>
+    <string name="doa33">Artinya: "Ya Allah, aku berlindung pada-Mu dari godaan setan laki-laki dan setan perempuan"</string>
+    <string name="doa41">غُفْرَانَكَ الْحَمْدُ ِللهِ الَّذِىْ اَذْهَبَ عَنّى اْلاَذَى وَعَافَانِىْ</string>
+    <string name="doa42">Ghufraanakal hamdu lillaahil ladzii adzhaba annil adzaa wa aafaanii</string>
+    <string name="doa43">Artinya: "Dengan mengharap ampunanMu, segala puji milik Allah yang telah menghilangkan kotoran dari badanku dan yang telah menyejahterakan"</string>
+    <string name="doa51">َلْحَمْدُ ِللهِ كَمَا حَسَّنْتَ خَلْقِىْ فَحَسِّـنْ خُلُقِىُْ</string>
+    <string name="doa52">Alhamdulillaahi kamaa hassanta kholqii fahassin khuluqii</string>
+    <string name="doa53">Artinya: "Segala puji bagi Allah, baguskanlah budi pekertiku sebagaimana Engkau telah membaguskan rupa wajahku"</string>
+
+    <string name="hadis11">ِنَّا نُهِيْنَا اَنْ نُرَى عَوْرَاتَنَا</string>
+    <string name="hadis12">Innaa nuhíínaa annuraa ‘auraatanaa</string>
+    <string name="hadis13">Artinya, “Sesungguhnya kita dilarang menampakkan aurat kita” (HR. Imam Ahmad)</string>
+    <string name="hadis21">تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ صَدَقَةٌ</string>
+    <string name="hadis22">Tabassumuka fii wajhii akhiika shadaqatú</string>
+    <string name="hadis23">Artinya, “Senyum manismu dihadapan saudaramu adalah shadaqah” (HR. Tirmidzi)</string>
+    <string name="hadis31">مَنْ لَا يَرْحَمْ لَا يُرْحَمْ</string>
+    <string name="hadis32">Manlaa yarham laa yurham</string>
+    <string name="hadis33">Artinya, “Barangsiapa tidak menyayangi maka tidak disayangi” (HR. Bukhari)</string>
+    <string name="hadis41">اَمْسِكْ عَلَيْكَ لِسَانَكَ</string>
+    <string name="hadis42">Asmik ‘alaika lisaanaka</string>
+    <string name="hadis43">Artinya, “Jagalah lisanmu” (HR. Tirmidzi)</string>
+    <string name="hadis51">الْمُسْلِمُ أَخُو الْمُسْلِمِ لَا يَظْلِمُهُ وَلَا يُسْلِمُهُ</string>
+    <string name="hadis52">Al-muslimu akhuul muslimi laa yazhlimuhuu walaa yuslimuhú</string>
+    <string name="hadis53">Artinya, “Muslim itu bersaudara bagi muslim yang lainnya, Jangan menzaliminya dan jangan memasrahkannya”(HR.Bukhori-Muslim)</string>
+
+    <string name="akhlak11">Akhlak adalah sifat yang melekat pada diri kita dan akan muncul tanpa pertimbangan dan pemikiran. Sebagai anak y ang sholeh, kita harus mempunyai akhlak yang baik. Karena jika kita mempunyai akhlak yang baik, orang akan mencintai dan menyayangi kita. Nabi kita Muhammad SAW. bersabda : </string>
+    <string name="akhlak12">إِنَّمَا بُعِثْتُ لأُتَمِّمَ مَكَارِمَ الأَخْلاقِ</string>
+    <string name="akhlak13">Artinya : "Sesungguhnya aku diutus untuk menyempurnakan akhlak yang baik"(HR. Bukhori)</string>
+    <string name="akhlak14">إِنَّ خِيَارَكُمْ أَحَاسِنُكُمْ أَخْلَاقًا</string>
+    <string name="akhlak15">Artinya: "Sesungguhnya sebaik-baik kalian adalah yang paling bagus akhlaknya".(HR Bukhori dan Muslim)</string>
+    <string name="akhlak16">Akhlak itu terbagi menjadi dua. Jika bagus dan tidak bertentangan dengan nilai agama dan budaya dinamakan akhlak terpuji. Jika tidak sesuai dengan perintah agama dan tidak cocok dengan budaya setempat maka itu dinamakan akhlak tercela.</string>
+
+    <string name="akhlak21">"Anak yang jujur disayang semua orang ungkapan ini adalah sebagai penahargaan buat anak yang jujur. Berhubungan dengan sifat jujur, Ibnu Mas’ud radhiallahu ‘anhu menuturkan bahwa Rasulullah ﷺ bersabda : </string>
+    <string name="akhlak22">عَلَيْكُمْ بِالصِّدْقِ فَإِنَّ الصِّدْقَ يَهْدِى إِلَى الْبِرِّ وَإِنَّ الْبِرَّ يَهْدِى إِلَى الْجَنَّةِ وَمَا يَزَالُ الرَّجُلُ يَصْدُقُ وَيَتَحَرَّى الصِّدْقَ حَتَّى يُكْتَبَ عِنْدَ اللَّهِ صِدِّيقًا وَإِيَّاكُمْ وَالْكَذِبَ فَإِنَّ الْكَذِبَ يَهْدِى إِلَى الْفُجُورِ وَإِنَّ الْفُجُورَ يَهْدِى إِلَى النَّارِ وَمَا يَزَالُ الرَّجُلُ يَكْذِبُ وَيَتَحَرَّى الْكَذِبَ حَتَّى يُكْتَبَ عِنْدَ اللَّهِ كَذَّابًا</string>
+    <string name="akhlak23">“Hendaklah kalian senantiasa berlaku jujur, karena sesungguhnya kejujuran akan mengantarkan pada kebaikan dan sesungguhnya kebaikan akan mengantarkan pada surga. Jika seseorang senantiasa berlaku jujur dan berusaha untuk jujur, maka dia akan dicatat di sisi Allah sebagai orang yang jujur. Hati-hatilah kalian dari berbuat dusta, karena sesungguhnya dusta akan mengantarkan kepada kejahatan dan kejahatan akan mengantarkan pada neraka. Jika seseorang sukanya berdusta dan berupaya untuk berdusta, maka ia akan dicatat di sisi Allah sebagai pendusta.”</string>
+    <string name="akhlak24">Apa sih sifat jujur itu? \nJujur adalah berkata sesuai dengan kenyataan. Misalnya adik-adik ditanya orang tua tentang berapa uang SPP sekolah, maka sebagai anak yang baik, kita harus menjawab sesuai dengan yang telah ditetapkan di sekolahan.
+        \nAgama kita (Islam) sangat mengajarkan dan mernganjurkan kepada kita untuk selalu berkata jujur dalam keadaan apapun.
+        \nCaranya Mempunyai Sifat Jujur?
+        \n1. Kita harus mempunyai akal yang sehat, sehingga bisa mengetahui manfaatnya berkata jujur.
+        \n2. Mempelajari agama islam dengan sungguh-sungguh karena islam itu memerintahkan agar umat islam itu selalu berkata jujur
+        \n3. Menjaga kehormatan. Dengan berkata jujur, ucapan kita akan dipercaya dan dihormati oleh orang lain.</string>
+    <string name="akhlak25">Setelah kita tahu apa itu jujur, sekarang kita sampai kepada sifat akhlak terpuji yang disebut amanat. Sebagai anak yang sholeh dan sholehah, kita harus selalu menjaga dan menunaikan amanat karena itu adalah harga mati.</string>
+    <string name="akhlak26">Apa sih sifat "Amanat" itu? \nTeman-teman yang budiman! Amanat adalah menjaga dan memberikan hak kepada yang berhak atau singkatnya "dapat dipercaya". Misalnya ibu menyuruh kita meberikan uang 50.000 kepada bibi, ya, kita berikan sesuai yang disuruh ibu, tanpa menguranginya. </string>
+    <string name="akhlak27">Sudah tahukah teman- teman bahwa anak yang rendah hati akan disayangi oleh banyak orang, mulai orang tua, saudara, guru, teman dan yang lainnya. \n\nRendah hati adalah kita tidak merasa diri kita lebih baik dari orang lain dan tidak sombong, serta kita sadar bahwa semua kelebihan yang kita punya itu pemberian Allah. </string>
+    <string name="akhlak28">Adik-adik yang budiman, kita sering mendengar orang-orang dengan penuh simpatik mengatakan “Dia itu dermawan”. Wah, kayaknya orang yang disebut dermawan itu disayangi banyak orang. Ayo, kita simak dermawan apa itu dermawan.</string>
+    <string name="akhlak29">Begini, dermawan adalah memberikan harta sukarela tanpa diminta dan pamrih. Gimana, enak kan bisa berbagi dengan orang lain?. Yah, saya beritahu, dermawan itu juga bisa merekatkan hubungan baik. Nabi Muhammad adalah seorang yang dermawan, beliau sering memberi tanpa takut menjadi miskin. </string>
+    <string name="akhlak210">Dalam kehidupan ini, kadang terjadi sesuatu yang tidak sesuai dengan apa yang kita inginkan. Ketika hal itu terjadi kita harus sabar. Kemudian apa yang dinamakan sabar? \n\nSabar adalah menerima musibah yang menimpa kita, keluarga kita, harta dan sesuatu yang kita cintai dan kita tidak putus asa, akan tetapi tetap bersyukur kepada Allah SWT. </string>
+    <string name="akhlak211">Supaya hidup kita menjadi tentram dan damai, kita sebagai anak yang sholeh harus mempunyai sifat qana’ah. Jadi penasarn kana pa itu qana’ah? \n\nQana’ah adalah menerima hasil usaha dengan gembira dan percaya bahwa itu adalah yang terbaik dari Allah SWT. </string>
+    <string name="akhlak212">Husnudzan adalah berprasangka baik, kebalikan dari husnudzan adalah su’udzan (berprasangka buruk). Sebagai anak yang sholeh kita harus berprasangka baik kepada Allah, saudara, dan teman-teman kita. </string>
+    <string name="akhlak213">Teman-teman, supaya tidak putus asa kita harus bertawakkal. Sudah tahukah teman-teman apa itu tawakkal? \n\nAdik-adik yang budiman, Tawakkal adalah memasrahkan semua perkara kepada Allah disertai usaha yang maksimal. </string>
+    <string name="akhlak214">Selain akhlak terpuji, ada beberapa akhlak tercela yang tidak bokleh kita lakukan yaitu :
+    \na. Dusta \nb. Sombong \nc. Ghibah (Membicarakan Kejelekan Orang Lain) \nd. Adu Domba \ne. Dengki \nf. Bakhil \ng. Su’udzan (Berburuk Sangka)</string>
+
+    <string name="fiqih_najis1">Najis adalah sesuatu yang dianggap kotor dan tidak suci oleh ajaran Islam. Jika tubuh atau pakaian anak sholeh terkena najis, wudhu mu tidak batal, tetapi shalat adik-adik tidak diterima. Karena itu, pastikan badan dan pakaian anak sholeh harus bersih dari najis tatkala mau mengambil air wudhu. Bersuci untuk menghilangkan najis itu ada empat macam membersihkan najis tersebut, berwudhu, bertayamum, dan yang terakhir adalah mandi.</string>
+    <string name="fiqih_najis2">Adik-adik yang sholeh dan Sholehah. Berbicara tentang najis, ada beberapa macam najis yang perlu adik ketahui agar kamu dapat berhati-hati darinya. Karena hal ini berkaitan dengan ibadah kita kepada Allah SWT. Adapun najis itu meliputi:</string>
+    <string name="fiqih_najis3">Dalilnya adalha hadis Abu Sa id Al-Khudry, beliau berkata sesungguhnya Nabi SAW bersabda :</string>
+    <string name="fiqih_najis4">أَتَى النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَالِهِ وَسَلَّمَ الغَائِطَ فَأَمَرَنِي أَنْ أُتِيَهُ بِثَلَاثَةِ أَحْجَارٍ فَوَجَدْتُ حَجْرَيْنِ وَالتَمَسْتُ الثَّالِثَ فَلَمْ أَجِدُهُ فَأَخَذْتُ رَوْثَةٌ فَأَتَيْتُهُ مَا فَأَخَذَ
+
+الحَجْرَيْنِ وَأَلْقَى الرَّوْثَةَ وَقَالَ هَذَا رِكْسٌ</string>
+    <string name="fiqih_najis5">Artinya: "Sesungguhnya Nabi SAW mendatangi tempat buang hajat. Maka beliau memerintahkan saya mengambil tiga batu untuknya. Maka saya hanya mendapatkan dua batu dan tidak menemukan yang ketiga. Lalu saya mengambil rautsah (kotoran onta yang kering), maka beliau mengambil kedua batu tersebut dan katanya rautsah dan berkata: "Ini adalah riksun (najis)".(H.R. Bukhori)</string>
+    <string name="fiqih_najis6">Adik-adik, najis yang satu ini merupakan najis yang keluar dari alat kelamin kita, madzi mirip dengan seperma, namun madzi ini lebih encer. Hukum madzi adalah najis, maka Cara untuk membersihkannya adalah dengan mencuci kemaluan. Cara tersebut sesuai dengan hadist dari Ali bin Abi Thalib, beliau berkata:</string>
+    <string name="fiqih_najis7">عَنْ عَلِيٍّ رَضِيَ اللهُ عَنْهُ ، قَالَ : كُنْتُ رَجُلًا مَذَّاءٌ، فَأَمَرْتُ رَجُلًا أَن ْ يَسْأَلَ النَّبِيَّ صَلَّى اللهُ عَلَيهِ وَسَلَّمَ لِمَكَانِ ابْنَتِهِ، فَسَأَلَ،
+
+فَقَالَ : " تَوَضَّأْ وَاغْسِلْ ذَكَرَكَ</string>
+    <string name="fiqih_najis8">Artinya: "Aku termausk orang yang sering keluar madzi. Namun aku malu menanyakan hal ini kepada Nabi SAW dikarenakan kedudukan anaknya (Fatimah) di sisiku. Lalu aku pun me- merintahkan pada Al Miqdad bin Al Aswad untuk bertanya pada Nabi SAW. Lantas beliau memberikan jawaban pada Al Miqdad, "Perintahkan dia untuk mencuci kemaluannya kemu- dian suruh dia berwudhu".(HR. Bukhari dan Muslim)</string>
+    <string name="fiqih_najis9">Adik-adik yang sholeh dan sholehah, perbedaan antara wadiy dan madiy itu sangat sedikit, wadiy adalah cairan yang berwarna agak keruh dan encer yang keluar setelah kencing atau setelah mengangkat beban berat, untuk membersihkan cairan itu, maka caranya seperti membersihkan cairan madiy. Maka dari itu, jika adek-adek habis kencing cuci bersih agar terhindar dari najis.</string>
+    <string name="fiqih_najis10">Adik-adik yang sholehah, haid adalah darat yang keluar dari rahim seorang wanita pada waktu-waktu tertentu. Sedangkan nifas adalah darah yang keluar dari wanita setelah melahirkan- kan selama empat puluh hari. Darah haid dan nifas hukumnya adalah najis. Dalil yang menunjukkan hal ini, dari Asma binti Abi Bakr, beliau berkata, Seorang wanita pernah mendatangi Nabi SAW kemudian berkata,</string>
+    <string name="fiqih_najis11">‫عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ قَالَتْ : جَاءَتْ امْرَأَةٌ‬‎ ‎‫إِلى النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فَقَالَتْ إِحْدَانَا‬‎ ‎‫يُصِيبُ ثَوْبَهَا مِنْ دَمِ الْحَيْضَةِ كَيْفَ تَصْنَ عُ بِهِ‬‎ ‎‫فَقَالَ تَحْتُهُ ثُمَّ تَقْرُصُهُ بِالْمَاءِ ثُمَّ تَنْضَحُهُ ثُمَّ تُصَلَّى فِيْهِ‬‎</string>
+    <string name="fiqih_najis12">Artinya: “Diantara kami ada yang bajunya terkena darah haidh. Apa yang harus kami perbuat?”. Beliau menjawab, “Gosok dan keriklah pakaian tersebut dengan air, lalu percikilah. Kemudian shalatlah dengannya.” (H.R. Muslim)</string>
+    <string name="fiqih_najis13">Perintah menggosok dan mengerik darah haidh tersebut menunjukkan akan kenajisannya.</string>
+    <string name="fiqih_najis14">Bangkai adalah gewan yang mati tanpa melalui penyembelihan yang syari i, atau potongan dari hewan yang dipotong ketika masih hidup. Sebagaimana sabda Nabi :</string>
+    <string name="fiqih_najis15">ما قُطِعَ مِنَ الْبَهِيْمَةِ وَهِيَ حَيَةٌ فَهُوَمَيِّتٌ</string>
+    <string name="fiqih_najis16">Artinya : DiApa-apa yang terpotong dari binatang ternak sedang ia masih hidup maka itu adalah bangkai" (HR. Tirmidzi, Abu Dawud dan Ibnu Majah)</string>
+
+    <!--Wudhu-->
+    <string name="fiqih_wudhu1">Anak Sholeh dan sholehah yang budiman...! ketika kamu ingin mengerjakan shalat baik itu shalat sunnah atau shalat wajib, maka wajib bagi kamu untuk mengambil Air wudhu terlebih dahulu dengan baik dan benar, Allah SWT. berfirman :</string>
+    <string name="fiqih_wudhu2">يٰٓاَيُّهَا الَّذِيْنَ اٰمَنُوْٓا اِذَا قُمْتُمْ اِلَى الصَّلٰوةِ فَاغْسِلُوْا وُجُوْهَكُمْ وَاَيْدِيَكُمْ اِلَى الْمَرَافِقِ وَامْسَحُوْا بِرُءُوْسِكُمْ وَاَرْجُلَكُمْ اِلَى الْكَعْبَيْنِۗ وَاِنْ كُنْتُمْ جُنُبًا فَاطَّهَّرُوْاۗ وَاِنْ كُنْتُمْ مَّرْضٰٓى اَوْ عَلٰى سَفَرٍ اَوْ جَاۤءَ اَحَدٌ مِّنْكُمْ مِّنَ الْغَاۤىِٕطِ اَوْ لٰمَسْتُمُ النِّسَاۤءَ فَلَمْ تَجِدُوْا مَاۤءً فَتَيَمَّمُوْا صَعِيْدًا طَيِّبًا فَامْسَحُوْا بِوُجُوْهِكُمْ وَاَيْدِيْكُمْ مِّنْهُ ۗمَا يُرِيْدُ اللّٰهُ لِيَجْعَلَ عَلَيْكُمْ مِّنْ حَرَجٍ وَّلٰكِنْ يُّرِيْدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهٗ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُوْنَ</string>
+    <string name="fiqih_wudhu3">Artinya : Wahai orang-orang yang beriman! Apabila kamu hendak melaksanakan salat, maka basuhlah wajahmu dan tanganmu sampai ke siku, dan sapulah kepalamu dan (basuh) kedua kakimu sampai ke kedua mata kaki. Jika kamu junub, maka mandilah. Dan jika kamu sakit atau dalam perjalanan atau kembali dari tempat buang air (kakus) atau menyentuh perempuan, maka jika kamu tidak memperoleh air, maka bertayamumlah dengan debu yang baik (suci); usaplah wajahmu dan tanganmu dengan (debu) itu. Allah tidak ingin menyulitkan kamu, tetapi Dia hendak membersihkan kamu dan menyempurnakan nikmat-Nya bagimu, agar kamu bersyukur.</string>
+    <string name="fiqih_wudhu4">Dalam sebuah hadits dijelaskan bahwa shalat kita tidak akan diterima Allah SWT jika belum berwudhu. Nabi kita Muhammad SAW. bersabda :</string>
+    <string name="fiqih_wudhu5">لَا يَقْبَلُ اللهُ صَلَاةَ أَحَدِكُمْ إِذَا أَحْدَثَ حَتَّى يَتَوَضَّأ</string>
+    <string name="fiqih_wudhu6">Artinya: Allah tidak akan menerima shalat salah satu diantara kamu apabila berhadast sampai berwudhu</string>
+    <string name="fiqih_wudhu7">Wudhu adalah menggunakan air yang suci (thahir) dan mensucikan (muthahir) dengan cara membasuhkannya dan mengusapkannya air tersebut sampai membasahi dan mengaliri di empat anggota badan yang khusus yaitu, wajah, kedua tangan, kepala, dan kedua kaki. Adapun sebab yang mewajibkan wudhu adalah hadats.</string>
+    <string name="fiqih_wudhu8">1. Mencuci tangan sebelum memulai wudhu, disunnahkan. Disunnahkan pula membaca basmalah.
+2. Berkumur tiga kali jugua disunnahkan. Menghisap air dari hidung kemudian dihembuskan hingga tiga kali juga disunnahkan.
+3.Berniat dalam hati dengan dibarengi ucapan lisan, bisa dengan menggunakan bahasa arab;</string>
+    <string name="fiqih_wudhu9">  ‎‫الْاَ صْغَرِ فَرْضًا لِلَّهِ تَعَالَى‬‎نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ</string>
+    <string name="fiqih_wudhu10">Artinya : Saya berniat wudhu untuk menghilangkan hadats kecil fardhu karena allah ta ala.</string>
+    <string name="fiqih_wudhu11">4. Membasuh muka secara merata dengan kedua tangan mu mulai batas tumbuhnya rambut, sampai bawah dagu, disunnahkan mengulanginya sampai tiga kali.
+5. Membasuh kedua tangan sampai ke siku secara bergantian dan merata, disunahkan mengulangnya sampai tiga kali.
+6. Membasuh bagian kepala atau keseluruhannya hingga daun telinga disertai gerakan jari telunjuk untuk membersihkan disunnahkan sebanyak tiga kali. Adapun telinga ada sebagian ulama yang menganggapnya sunnah.
+7. Membasuh kedua kaki dengan merata, disunnahkan sampai tiga kali. Diharuskan wahai adik-adikku dalam menjalankan wudhu ini harus dengan tertib atau urut sampai tiga kali.</string>
+    <string name="fiqih_wudhu12">Setelah selesai wudhu, keluar dari tempat wudhu lalu menghadap kiblat, dan membaca doa seyelah wudhu,</string>
+    <string name="fiqih_wudhu13">أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ. اللَّهُمَّ اجْعَلْنِى مِنَ التَّوَّابِينَ وَاجْعَلْنِى مِنَ الْمُتَطَهِّرِينَ</string>
+    <string name="fiqih_wudhu14">Artinya : Aku bersaksi tiada Tuhan melainkan Allah dan tidak ada yang menyekutukan bagi-Nya. Dan aku bersaksi bahwa Nabi Muhammad adalah hamba-Nya dan utusan-Nya. Ya Allah jadikanlah aku orang yang ahli tobat, dan jadikanlah aku orang yang suci dan jadikanlah aku dari golongan orang-orang yang saleh.</string>
+    <string name="fiqih_wudhu15">Anak-anak yang sholeh dan sholehah yang budiman! Perlu kamu ketahui bahwa ada beberapa hal yang membatalkan wudhu, yaitu :
+    1. Keluarnya sesuatu dari salah satu dari dua lubang, lubang dubur dan qabul (alat kelamin)
+    2. Hilang kesadaran, mabuk, pingsan, tidur nyenyak, adapun bila tidur dengan duduk asal tidak berubah posisi
+    3. Menyentuh kulit awan jenis yang bukan muhrim (tidak ada hubungan keluarga)
+    4. Menyentuh alat kelamin, Nabi bersabda :</string>
+    <string name="fiqih_wudhu16">َالَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ:‬‎
+‎‫مَنْ مَسَّ فَرْجَهُ فَلْيَتَوَضَا. رواه ابن ماجه‬‎</string>
+    <string name="fiqih_wudhu17">Artinya : bersabda Nabi SAW barangsiapa yang menyentuh kemaluannya, maka berwudhulah (HR. Ibnu Majah).</string>
+    <string name="fiqih_wudhu18">Anak-anak sholeh dan sholehah yang budiman! ada beberapa hal yang tidak boleh kalian lakukan ketika kalian batal wudhunya.
+    1. Menyentuh Al-Quran
+    2. Shalat
+    3. Thowaf</string>
+
+    <!--Tayamun-->
+    <string name="fiqih_tayammum1">Tayamum adalah pengertian wudhu’. Sebagaimana yang telah kalian ketahui bersuci itu pada dasarnya memakai air, akan tetapi karena kondisi tertentu seperti kemarau panjang dan susah untuk mendapatkan air, atau sedang sakit, maka tayamum menjadi solusi pengganti wudhu, Allah berfirman :</string>
+    <string name="fiqih_tayammum2">وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ</string>
+    <string name="fiqih_tayammum3">Artinya : …,  Dan jika kamu sakit atau sedang dalam musafir atau datang dari tempat buang air atau kamu telah menyentuh perempuan, kemudian kamu tidak mendapat air, maka bertayamumlah kamu dengan tanah yang baik (suci); sapulah mukamu dan tanganmu. (Q.S. An-Nisa : 43)</string>
+    <string name="fiqih_tayammum4">Walaupun bertayamum sebagai pengganti wudhu dalam bersuci, akan tetapi cara pelaksanaannya berbeda :
+        1.	Siapkan debu atau kita cari tempat yang terdapat debu menempel disana, seperti tanah yang berdebu, pasir, batu, dan lain-lain.
+        2.	Pastikan tanah, debu, atau pasir tersebut suci dari najis.
+        3.	Letakkan telapak tangan kalian ke debu, tanah, atau pasir tadi, setelah itu goyangkan tangan kelian agar debu atau pasir yang kasar ditangan bisa jatuh. Setelah itu usapkan kedua telapak tangan kemuka disertai dengan doa :
+</string>
+    <string name="fiqih_tayammum5">نَوَيْتُ التَّيَمُّمَ لِاسْتِبَاحَةِ الصَّلَاةِ للهِ تَعَالَى</string>
+    <string name="fiqih_tayammum6">Artinya: "Aku berniat tayamum agar diperbolehkan sholat karena Allah ta'ala."</string>
+    <string name="fiqih_tayammum7">Setelah satu usapan tangan dibersihkan dari sisa debu yang pertama, kemudian benamkan kembali tangan kalian pada lokasi debu yang berbeda, setelah itu goyangkan tangan agar debu yang kasar jatuh, lalu usapkan ke kedua tangan mulai ujung jari sampai atas siku secara merata, setelah dua-duanya selesai, berarti kalian sukses dalam menjalankan tayamum.</string>
+    <string name="fiqih_tayammum8">Hanya ada beberapa situasi atau keadaan tertentu yang diperbolehkannya untuk melakukan tayamum, seperti kemarau panjang yang membuat air langka, sakit keras yang tidak diperbolehkan dokter untuk bersentuhan dengan air.</string>
+    <string name="fiqih_tayammum9">Tayamum sah apabila sudah memenuhi syarat-syarat sahnya tayamum yang telah ditentukan, yaitu :
+a)	Sudah masuk waktunya shalat
+b)	Sudah mencari mata air kemana-mana tapi tidak menemukannya
+c)	Menemukan debu yang suci yang aman untuk tayamum</string>
+    <string name="fiqih_tayammum10">1.	Segala yang membatalkan wudhu membatalkan tayamum
+2.	Melihat sumber mata air yang cukup untuk berwudhu’ setelah melakukan tayamum, akan tetapi belum melaksanakan shalat
+3.	Murtad (kafir)
+</string>
+    <string name="fiqih_tayammum11">Anak-anak sholeh dan sholehah yang budiman! Kita semua tahu bahwa bersuci pada umunya memakai air, akan tetapi ini salah satunya kemudahan yang ada pada agama kita, yaitu tatkala kita sakit atau sedang tidak ada air maka kita diperbolehkan mengganti wudhu dengan tayamum. Oleh karena itu, sebagai anak yang sholeh dan sholehah, tayamum perlu dikuasai agar tetap bisa melakukan ibadah tatkala ada kesulitan untuk bersuci memakai air.</string>
+
+    <!--Shalat-->
+    <string name="fiqih_shalat1">Secara bahasa shalat berarti “do’a”. Sedangkan secara istilah shalat adalah suatu ucapan, perbuatan, yang dimulai dengan takbir, dan diakhiri dengan salam dengan syarat-syarat yang ditentukan.</string>
+    <string name="fiqih_shalat2">فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ ۚ فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ ۚ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًا مَّوْقُوتًا</string>
+    <string name="fiqih_shalat3">Artinya: Maka apabila kamu telah menyelesaikan shalat(mu), ingatlah Allah di waktu berdiri, di waktu duduk dan di waktu berbaring. Kemudian apabila kamu telah merasa aman, maka dirikanlah shalat itu (sebagaimana biasa). Sesungguhnya shalat itu adalah fardhu yang ditentukan waktunya atas orang-orang yang beriman. (Q.S. An-Nisa’ : 103)</string>
+    <string name="fiqih_shalat4">Anak sholeh dan sholehah yang budiman! Ibadah shalat merupakan ibadah yang paling penting dan tentunya kalian semua sudah harus akrab dengan ibadah yang satu ini, ayo kita belajar shalat!
+Ada sebuah hadist yang menjelaskan betapa pentingnya shalat bagi kita kelak. Hadistnya begini :</string>
+    <string name="fiqih_shalat5">إنَّ أَوَّلَ مَا يُحَاسَبُ بِهِ العَبْدُ يَوْمَ القِيَامَةِ مِنْ عَمَلِهِ صَلَاتُهُ، فَإنْ صَلُحَتْ، فَقَدْ أَفْلَحَ وَأَنْجَحَ، وَإنْ فَسَدَتْ، فَقَدْ خَابَ وَخَسِرَ، فَإِنِ انْتَقَصَ مِنْ فَرِيْضَتِهِ شَيْءٌ، قَالَ الرَّبُ – عَزَّ وَجَلَّ – : اُنْظُرُوْا هَلْ لِعَبْدِيْ مِنْ تَطَوُّعٍ، فَيُكَمَّلُ مِنْهَا مَا انْتَقَصَ مِنَ الفَرِيْضَةِ ؟ ثُمَّ تَكُوْنُ سَائِرُ أعْمَالِهِ عَلَى هَذَا.
+(رَوَاهُ التِّرمِذِيُّ)</string>
+    <string name="fiqih_shalat6">Artinya : “Sesungguhnya amal yang pertama kali dihisab pada seorang hamba pada hari kiamat adalah shalatnya. Maka, jika shalatnya baik, sungguh ia telah beruntung dan berhasil. Dan jika shalatnya rusak, sungguh ia telah gagal dan rugi. Jika berkurang sedikit dari shalat wajibnya, maka Allah Ta’ala berfirman: ‘Lihatlah apakah hamba-Ku memiliki shalat sunnah.’ Maka disempurnakanlah apa yang kurang dari shalat wajibnya. Kemudian begitu pula dengan seluruh amalnya.” (HR. Tirmidzi)</string>
+    <string name="fiqih_shalat7">Dari hadis ini dapat kita pahami bahwasannya sholat adalah amalan pertama yang akan dipertanyakan dari seorang muslim pada hari kiamat nanti, kemudian kita pahami juga bahwasanya sholat adalah semacam ‘tolak ukur’ untuk mengetahui kualitas seorang muslim, karena dikatakan bahwa jika sholatnya baik, maka baiklah ia, demikian pula sebaliknya.
+Tidak hanya penjelasan didalam hadist, Al-Qur’an juga berbicara betapa pentingnya shalat.</string>
+    <string name="fiqih_shalat8">وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ ۗ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ</string>
+    <string name="fiqih_shalat9">Artinya: Dan dirikanlah shalat dan tunaikanlah zakat. Dan kebaikan apa saja yang kamu usahakan bagi dirimu, tentu kamu akan mendapat pahala nya pada sisi Allah. Sesungguhnya Allah Maha Melihat apa-apa yang kamu kerjakan. (Q.S. Al-Baqarah : 110)</string>
+    <string name="fiqih_shalat11">1. Shalat dapat mencegah kita dari perbuatan yang keji dan munkar, dengan catatan kita harus mengerjakan shalat dengan ikhlas dan khusu’ Allah berfirman :</string>
+    <string name="fiqih_shalat12">ٱتْلُ مَآ أُوحِىَ إِلَيْكَ مِنَ ٱلْكِتَٰبِ وَأَقِمِ ٱلصَّلَوٰةَ ۖ إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ ۗ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ ۗ وَٱللَّهُ يَعْلَمُ مَا تَصْنَعُونَ</string>
+    <string name="fiqih_shalat13">Artinya: Bacalah apa yang telah diwahyukan kepadamu, yaitu Al Kitab (Al Quran) dan dirikanlah shalat. Sesungguhnya shalat itu mencegah dari (perbuatan-perbuatan) keji dan mungkar. Dan sesungguhnya mengingat Allah (shalat) adalah lebih besar (keutamaannya dari ibadat-ibadat yang lain). Dan Allah mengetahui apa yang kamu kerjakan. (Q.S. Al-‘Ankabut : 45)</string>
+    <string name="fiqih_shalat14">2. Shalat membimbing hidup kita menjadi insan yang bertaqwa, demikianlah firman Allah dalam Q.S. Al-Baqarah ayat 2-3</string>
+    <string name="fiqih_shalat15">ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ
+ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ
+</string>
+    <string name="fiqih_shalat16">Artinya: Kitab (Al Quran) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa, (yaitu) mereka yang beriman kepada yang ghaib, yang mendirikan shalat, dan menafkahkan sebahagian rezeki yang Kami anugerahkan kepada mereka. (Q.S. Al-Baqarah ayat : 2-3)</string>
+    <string name="fiqih_shalat17">3. Orang yang mau menjalankan shalat sangat berpeluang untuk mendapat keberuntungan dari Allah baik didunia maupun di akhirat, di dunia diantara hal baik yang didapat dari sholat adalah kesehatan jasmani dan rohani, diakhirat diantara keberuntungan yang dijanjikan yakni mendapat tiket masuk kesurga serta dijauhkan dari azab api neraka.</string>
+    <string name="fiqih_shalat18">قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ
+ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَٰشِعُونَ</string>
+    <string name="fiqih_shalat19">Artinya: Sesungguhnya beruntunglah orang-orang yang beriman, (yaitu) orang-orang yang khusyu dalam sembahyangnya, (Q.S. Al-Mukminun : 1-2)</string>
+    <string name="fiqih_shalat20">Teman-teman yang sholeh dan sholehah, shalat yang kita kerjakan akan sia-sia bila kita tidak mengetahui syarat dan ketentuan yang ada. Ayo…Kita belajar shalat.</string>
+    <string name="fiqih_shalat21">Masing-masing shalat yang diwajibkan pada kita, ada waktu yang sudah ditentukan.</string>
+    <string name="fiqih_shalat22">Masing-masing shalat yang diwajibkan pada kita, ada waktu yang sudah ditentukan.</string>
+    <string name="fiqih_shalat23">Secara singkat Al-Qur’an memberi gambaran waktu-waktu untuk shalat, diantaranya adalah dalam surah Al-Hud ayat 114 yang berbunyi :</string>
+    <string name="fiqih_shalat24">وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ ۚ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ ٱلسَّيِّـَٔاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ</string>
+    <string name="fiqih_shalat25">Artinya: Dan dirikanlah sembahyang itu pada kedua tepi siang (pagi dan petang) dan pada bahagian permulaan daripada malam. Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk. Itulah peringatan bagi orang-orang yang ingat. (Q.S. Hud : 114)</string>
+    <string name="fiqih_shalat26">Sebagai perinci dan penjelas dari ayat-ayat yang telah disebutkan diatas, hadist nabi SAW. Ini akan berbicara secara jelas perihal waktu shalat.</string>
+    <string name="fiqih_shalat27">Disunnahkan mengerjakan shalat Zhuhur di awal waktu. Dalam hadits Jabir bin Samurah, ia berkata,</string>
+    <string name="fiqih_shalat28">كَانَ النَّبِىُّ -صلى الله عليه وسلم- يُصَلِّى الظُّهْرَ إِذَا دَحَضَتِ الشَّمْسُ</string>
+    <string name="fiqih_shalat29">Artinya : “Nabi shallallahu ‘alaihi wa sallam pernah shalat Zhuhur ketika matahari telah tergelincir ke barat (waktu zawal).” (HR. Muslim, no. 618).</string>
+    <string name="fiqih_shalat30">Disunnahkan shalat ‘Ashar dilakukan segera mungkin di awal waktu. Hal ini berdasarkan hadits Anas,</string>
+    <string name="fiqih_shalat31">كَانَ رَسُولُ اللَّهِ – صلى الله عليه وسلم – يُصَلِّى الْعَصْرَ وَالشَّمْسُ مُرْتَفِعَةٌ حَيَّةٌ</string>
+    <string name="fiqih_shalat32">Artinya : “Rasulullah shallallahu ‘alaihi wa sallam pernah melaksanakan sholat ‘ashar ketika matahari masih tinggi, tidak berubah sinar dan panasnya.” (HR. Bukhari no. 550 dan Muslim no. 621).</string>
+    <string name="fiqih_shalat33">Dalilnya adalah hadits ‘Abdullah bin ‘Amr,</string>
+    <string name="fiqih_shalat34">وَوَقْتُ صَلاَةِ الْمَغْرِبِ مَا لَمْ يَغِبِ الشَّفَقُ</string>
+    <string name="fiqih_shalat35">Artinya : “Waktu shalat Maghrib adalah selama cahaya merah (saat matahari tenggelam) belum hilang.” (HR. Muslim, no. 612).</string>
+    <string name="fiqih_shalat36">Hadits ‘Aisyah radhiyallahu ‘anha, ia berkata,</string>
+    <string name="fiqih_shalat37">أَعْتَمَ النَّبِىُّ -صلى الله عليه وسلم- ذَاتَ لَيْلَةٍ حَتَّى ذَهَبَ عَامَّةُ اللَّيْلِ وَحَتَّى نَامَ أَهْلُ الْمَسْجِدِ ثُمَّ خَرَجَ فَصَلَّى فَقَالَ « إِنَّهُ لَوَقْتُهَا لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِى »</string>
+    <string name="fiqih_shalat38">Artinya : “Suatu malam Nabi shallallahu ‘alaihi wa sallam mendirikan shalat ‘atamah (isya`) sampai berlalu malam dan penghuni masjid pun ketiduran, setelah itu beliau datang dan shalat. Beliau bersabda, ‘Sungguh ini adalah waktu shalat isya’ yang tepat, sekiranya aku tidak memberatkan umatku’.” (HR. Muslim no. 638)</string>
+    <string name="fiqih_shalat39">Allah Ta’ala berfirman,</string>
+    <string name="fiqih_shalat40">أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَى غَسَقِ اللَّيْلِ وَقُرْآَنَ الْفَجْرِ إِنَّ قُرْآَنَ الْفَجْرِ كَانَ مَشْهُودًا</string>
+    <string name="fiqih_shalat41">Artinya : “Dirikanlah shalat dari sesudah matahari tergelincir sampai gelap malam dan (dirikanlah pula shalat) subuh. Sesungguhnya shalat subuh itu disaksikan (oleh malaikat).” (QS. Al-Isra’: 78).</string>
+    <string name="fiqih_shalat42">Sebagai anak yang sholeh dan sholehah, kita harus mengetahui waktu shalat yang telah ditetapkan syariat dengan baik, agar kita mendapatkan manfaat darinya. Shalat mengandung banyak faedah, tapi perlu diingat bahwa ada satu golongan yang rugi karena shalat yaitu orang-orang yang lalai dalam shalatnya. Allah SWT. Berfirman :</string>
+    <string name="fiqih_shalat43">فَوَيْلٌ لِّلْمُصَلِّينَ
+ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ</string>
+    <string name="fiqih_shalat44">Artinya: Maka kecelakaanlah bagi orang-orang yang shalat, (yaitu) orang-orang yang lalai dari shalatnya.</string>
+    <string name="fiqih_shalat45">Suci dari hadas kecil maupun besar menjadi hal kedua yang harus kita penuhi sebelum melakukan shalat.
+    Dari Abu Hurairah radhiyallahu ‘anhu berkata : Rasulullah shallallahu ‘alaihi wa sallam bersabda :</string>
+    <string name="fiqih_shalat46">لا يَقْبَلُ اللَّهُ صَلاةَ أَحَدِكُمْ إذَا أَحْدَثَ حَتَّى يَتَوَضَّأَ</string>
+    <string name="fiqih_shalat47">Artinya : “Allah tidak akan menerima shalat salah seorang diantara kalian jika dia berhadats sampai dia wudhu.” (HR. Bukhari : 6954 dan Muslim : 225).</string>
+    <string name="fiqih_shalat48">Aurat adalah bagian tubuh kita yang harus tertutupi pakaian disaat melaksanakan shalat. Bagi kalian yang laki-laki “Auratnya adalah mulai dari pusar sampai ke lutut.” Bagi kalian wanita “Auratnya dalah seluruh tubuh mengecualikan muka dan kedua telapak tangan.” Ketentuan menutup aurat ini sebagaimana firman Allah SWT. Dalam Q.S. Al-A’raf : 31</string>
+    <string name="fiqih_shalat49">يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟ ۚ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ</string>
+    <string name="fiqih_shalat50">Artinya: Hai anak Adam, pakailah pakaianmu yang indah di setiap (memasuki) mesjid, makan dan minumlah, dan janganlah berlebih-lebihan. Sesungguhnya Allah tidak menyukai orang-orang yang berlebih-lebihan. (Q.S. Al-A’raf : 31)</string>
+    <string name="fiqih_shalat51">Yang dimaksud dengan menghadap kiblat yaitu, menghadap ka’bah bagi orang yang melihatnya, atau cukup menghadapkan diri kita kea rah ka’bah bagi kita yang tidak dapat melihatnya. Mengapa kita harus demikian, karena Allah memerintahkan dalam satu firman-Nya :</string>
+    <string name="fiqih_shalat52">قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ ۖ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا ۚ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۚ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ ۗ وَإِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ ۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعْمَلُونَ</string>
+    <string name="fiqih_shalat53">Artinya : Sungguh Kami (sering) melihat mukamu menengadah ke langit, maka sungguh Kami akan memalingkan kamu ke kiblat yang kamu sukai. Palingkanlah mukamu ke arah Masjidil Haram. Dan dimana saja kamu berada, palingkanlah mukamu ke arahnya. Dan sesungguhnya orang-orang (Yahudi dan Nasrani) yang diberi Al Kitab (Taurat dan Injil) memang mengetahui, bahwa berpaling ke Masjidil Haram itu adalah benar dari Tuhannya; dan Allah sekali-kali tidak lengah dari apa yang mereka kerjakan. (Q.S. Al-Baqarah : 144)</string>
+    <string name="fiqih_shalat54">a).Memastikan pakaian dan tempat yang akan kita tempati benar-benar bersih dan suci dari najis, dianjurkan pakai parfum yang non alcohol.
+b).Hindari berjajar dengan teman yang sering gaduh pada waktu shalat.
+c).Perhatikan barisan kamu dan buatlah barisan yang rapat dan lurus :</string>
+    <string name="fiqih_shalat55">سَوُّوا صُفُوفَكُمْ ؛ فَإنَّ تَسْوِيَةَ الصَّفِّ مِنْ تَمَامِ الصَّلاَةِ</string>
+    <string name="fiqih_shalat56">Anas r.a. berkata, Rasulullah shallallahu ‘alaihi wa sallam bersabda, “Luruskanlah shaf-shaf kalian, karena lurusnya shaf termasuk kesempurnaan shalat.” (HR. Bukhari, No. 723 dan Muslim, No. 433]</string>
+    <string name="fiqih_shalat57">Niat adalah menyatakan kesengajaan untuk melakukan suatu perbuatan. Banyak ayat Al-Qur’an yang mengharuskan adanya niat dalam ibadah kita, khususnya shalat. Allah SWT. Berfirman dalm surah Az-Zumar ayat 2 :</string>
+    <string name="fiqih_shalat58">إِنَّآ أَنزَلْنَآ إِلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ فَٱعْبُدِ ٱللَّهَ مُخْلِصًا لَّهُ ٱلدِّينَ</string>
+    <string name="fiqih_shalat59">Artinya: Sesunguhnya Kami menurunkan kepadamu Kitab (Al Quran) dengan (membawa) kebenaran. Maka sembahlah Allah dengan memurnikan ketaatan kepada-Nya. (Q.S. Az-Zumar : 2)</string>
+    <string name="fiqih_shalat60">Adapun niat shalat adalah sebagai berikut :</string>
+    <string name="fiqih_shalat61">أُصَلِّى فَرْضَ الصُّبْح رَكَعتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لله تَعَالَى</string>
+    <string name="fiqih_sholat62">Artinya: "Aku niat melakukan sholat fardu subuh dua rakaat, sambil menghadap qiblat, saat ini, karena Allah ta'ala."</string>
+    <string name="fiqih_sholat63">اُصَلِّيْ فَرْضَ الظُّهْرِ أَرْبَعَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لله تَعَالَى</string>
+    <string name="fiqih_sholat64">Artinya: "Aku niat melakukan sholat fardu zuhur empat rakaat, sambil menghadap qiblat, saat ini, karena Allah ta'ala."</string>
+    <string name="fiqih_sholat65">أُصَلِّى فَرْضَ العَصْرِأَرْبَعَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لله تَعَالَى</string>
+    <string name="fiqih_sholat66">Artinya: "Aku niat melakukan sholat fardu asar empat rakaat, sambil menghadap qiblat, saat ini, karena Allah ta'ala."</string>
+    <string name="fiqih_sholat67">صَلِّى فَرْضَ المَغْرِبِ ثَلاَثَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لله تَعَالَ</string>
+    <string name="fiqih_sholat68">Artinya: "Aku niat melakukan sholat fardu maghrib tiga rakaat, sambil menghadap qiblat, saat ini, karena Allah ta'ala."</string>
+    <string name="fiqih_sholat69">أُصَلِّى فَرْضَ العِشَاء ِأَرْبَعَ رَكَعاَتٍ مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لله تَعَالَى</string>
+    <string name="fiqih_sholat70">Artinya: "Aku niat melakukan sholat fardu isya empat rakaat, sambil menghadap qiblat, saat ini, karena Allah ta'ala."</string>
+    <string name="fiqih_sholat71">Ketahuilah adik-adik yang sholeh dan sholehah, bahwa berdiri dalam shalat fardhu merupakan hal yang wajib bagi yang mampu berdiri, hal ini berdasarkan kepada firman Allah dalam Al-Qur’an, surah Al-Baqarah ayat 238 :</string>
+    <string name="fiqih_sholat72">حَٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَٰنِتِينَ</string>
+    <string name="fiqih_sholat73">Artinya: Peliharalah semua shalat(mu), dan (peliharalah) shalat wusthaa. Berdirilah untuk Allah (dalam shalatmu) dengan khusyu.(Q.S. Al-Baqarah : 238)</string>
+    <string name="fiqih_sholat74">Mengenai cara berdiri para ulama sepakat bahwa orang yang shalat disunahkan agar merenggangkan kedua telapak kakinya sewaktu berdiri.</string>
+    <string name="fiqih_sholat75">Takbiratul Ihram adalah ucapan takbir untuk memulai shalat. Hal ini didasarkan pada sabda Nabi SAW.
+"Jika kamu mengerjakan shalat, maka bertakbirlah” HR. Al-Bukhari dari Abu Hurairah. Mengenali ucapan takbir, (ٱللَّٰهُ أَكْبَرُ) itu sudah sesuai dengan hadist.”
+hal-hal yang disunnahkan dalam takbiratul ihram.
+Mengangkat kedua tangan secara bersamaan dengan takbiratul ihram, sebagaimana diterangkan dalam hadist :</string>
+    <string name="fiqih_sholat76">عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ : أَنَّ رَسُولَ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا كَبَّرَ رَفَعَ يَدَيْهِ حَتَّى يُحَاذِيَ بِهِمَا أُذُنَيْهِ، وَإِذَا رَكَعَ رَفَعَ يَدَيْهِ حَتَّى يُحَاذِيَ بِهِمَا أُذُنَيْهِ، وَإِذَا رَفَعَ رَأْسَهُ مِنَ الرُّكُوعِ فَقَالَ: سَمِعَ اللهُ لِمَنْ حَمِدَهُ فَعَلَ مِثْلَ ذَلِكَ. رواه مسلم</string>
+    <string name="fiqih_sholat77">Artinya : Dari Malik bin al-huwairist bahwasnya Rasulullah SAW. Ketika bertakbir (mengawali sholat) mengangkat kedua tanganya sejajar dengan kedua telinganya, ketika ruku’ mengangkat kedua tanganya sejajar dengan kedua telingnya, dan ketika bangun dari ruku’ beliau mengucapkan “ sami ‘Allahu liman hamidah.” juga melakukan hal seperti itu. (HR. Muslim)</string>
+    <string name="fiqih_sholat78">Setelah takbiratul ihram hendaknya memilih salah satu doa iftitah yang pernah dibaca oleh Rasulullah SAW.</string>
+    <string name="fiqih_sholat79">Teman-teman yang sholeh dan sholehah, setelah kalian membaca doa iftitah, yang harus kalian baca selanjutnya adalah surah Al-Fatihah. Membaca surah Al-Fatihah dalam sholat adalah suatu keharusan pada setiap raka’at (wajib), berdasarkan hadist</string>
+    <string name="fiqih_sholat80">لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِفَاتِحَةِ الْكِتَابِ</string>
+    <string name="fiqih_sholat81">Artinya : “Tidak sah shalat seseorang yang tidak membaca Surat al-Fatihah.” (Shahih Bukhari, Hadits Nomor 714).</string>
+    <string name="fiqih_sholat82">Dari Abu Qatadah Al-Anshari radhiyallahu ‘anhu, ia berkata</string>
+    <string name="fiqih_sholat83">كانَ النبيُّ صَلَّى اللهُ عليه وسلَّمَ يَقْرَأُ في الرَّكْعَتَيْنِ الأُولَيَيْنِ مِن صَلَاةِ الظُّهْرِ بفَاتِحَةِ الكِتَابِ، وسُورَتَيْنِ يُطَوِّلُ في الأُولَى، ويُقَصِّرُ في الثَّانِيَةِ ويُسْمِعُ الآيَةَ أَحْيَانًا، وكانَ يَقْرَأُ في العَصْرِ بفَاتِحَةِ الكِتَابِ وسُورَتَيْنِ، وكانَ يُطَوِّلُ في الأُولَى، وكانَ يُطَوِّلُ في الرَّكْعَةِ الأُولَى مِن صَلَاةِ الصُّبْحِ، ويُقَصِّرُ في الثَّانِيَةِ.</string>
+    <string name="fiqih_sholat84">“Nabi shallallahu alaihi wa sallam membaca surah Al-Fatihah pada dua rakaat pertama dari shalat Zhuhur, dan dua surah yang beliau panjangkan pada yang pertama dan lebih ringan pada yang kedua. Kadang beliau memperdengarkan ayat tersebut. Dalam shalat Ashar beliau membaca surah Al-Fatihah dan dua surah, lalu beliau panjangkan yang pertama. Dalam shalat Shubuh, beliau memanjangkan rakaat pertama dan lebih memperingan rakaat kedua.” (HR. Bukhari, no. 759 dan Muslim, no. 451)</string>
+    <string name="fiqih_sholat85">Setelah membaca surah Al-Quran, Rasulullah biasa berdiam sejenak, kemudian mengangkat kedua tangannya seperti takbiratul ihram, dan lalu rukuk. Beliau meletakkan telapak tangannya pada kedua lutut, dan meluruskan punggungnya. Dalam rukuknya, Nabi SAW membaca lafaz ruku yakni; Subhaana rabbiya Al-adzimi. </string>
+    <string name="fiqih_sholat86">سُبْحَانَ رَبِّىَ الْعَظِيْمِ وَبِحَمْدِهِ</string>
+    <string name="fiqih_sholat87">Artinya : “Maha Suci Rabbku yang maha Agung dan maha terpuji.”</string>
+    <string name="fiqih_sholat88">Setelah rukuk, Rasulullah bangkit atau biasa yang disebut dengan i tidal, seraya melafalkan doa;</string>
+    <string name="fiqih_sholat89">رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَوَاتِ وَمِلْءَ الأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَىْءٍ بَعْدُ</string>
+    <string name="fiqih_sholat90">Artinya : “Ya Allah, Rabb kami, bagi-Mu segala puji sepenuh langit dan sepenuh bumi, sepenuh apa yang Engkau kehendaki setelah itu.”</string>
+    <string name="fiqih_sholat91">Gerakan sholat ini dilakukan dengan menempel dahi ke tempat sujud. Selain dahi, anggota tubuh lainnya yang wajib diletakkan sehingga menempel pada lantai shalat adalah kedua telapak tangan, kedua lutut, dan kedua ujung kaki. Sujud dilakukan setelah itidal yang kemudian menjatuhkan wajah telebih dahulu, dan diikuti dengan anggota tubuh yang lainnya. Ketika sujud, posisi bokong lebih tinggi dari kepala, pundak dan tangan. Bacaan Sujud :</string>
+    <string name="fiqih_sholat92">سُبْحَانَ رَبِّىَ الأَعْلَى وَبِحَمْدِهِ</string>
+    <string name="fiqih_sholat93">Artinya : “Maha Suci Rabbku Yang Maha Tinggi dan pujian untuk-Nya.”</string>
+    <string name="fiqih_sholat94">Setelah sujud lalu duduk di antara dua sujud sembari membaca takbir (tanpa dibarengi dengan gerakan mengangkat tangan). Duduk di sini dengan dengan meletakkan kedua tangan di atas lutut dan paha, dan posisi duduk iftirasy.
+Adapun bacaan yang dilafalkan saat duduk di antara dua sujud :</string>
+    <string name="fiqih_sholat95">رب اغْفِرلي وَارْحَمْنِى واجبرني وَارْفَعْنِي وَارْزُقْنِى وَاهْدِنِى وَعَافِنِى وَاعْفُ عَنِّى</string>
+    <string name="fiqih_sholat96">Artinya : “Ya Allah ampunilah dosaku, belas kasihanilah aku, cukupkanlah segala kekurangan dan angkatlah derajatku, berilah rizki kepadaku, berilah aku petunjuk, berilah kesehatan kepadaku dan berilah ampunan kepadaku.”</string>
+    <string name="fiqih_sholat97">Sholat dengan jumlah rakaat tiga dan empat, ada gerakan sholat yang disebut duduk tasyahud awal. Tasyahud awal dilaksanakan pada rakaat kedua setelah dua sujud. Duduk tasyahud awal dilakukan dengan posisi duduk iftirasy.
+Dalam buku Fiqh Shalat Terlengkap, duduk tasyahud awal dilakukan secara iftirasy, yaitu duduk di atas mata kaki kiri dengan menegakkan kaki yang kanan, serta meletakkan ujung jari-jari kaki kanan di lantai seraya menghadap kiblat.
+Disebutkan dalam Bidayatul Mujtahid Wa Nihayatul Muqtashid oleh Ibnu Rusyd, Nabi SAW biasa meletakkan tangan kiri pada lutut kiri dan telapak tangan kanan pada lutut kaki kanan sambil mengacungkan jari telunjuk. Pada tasyahud awal membaca shalawat kepada Nabi SAW, yakni:</string>
+    <string name="fiqih_sholat98">اَلتَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ ِللهِ. اَلسَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللهِوَبَرَكَاتُهُ. اَلسَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللهِ الصَّالِحِيْنَ. أَشْهدُ اَنْ لاَإِلَهَ إِلاَّ اللهُ وَاَشْهَدُ أَنَّمُحَمَّدًا رَسُوْلُ اللهِ
+اَللهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ</string>
+    <string name="fiqih_sholat99">Artinya: “Segala kehormatan, keberkahan, rahmat dan keselamatan, serta kebaikan hanyalah kepunyaan Allah. Keselamatan, rahmat dan berkah dari Allah semoga tetap tercurah atasmu, wahai Nabi [Muhammad]. Keselamatan, rahmat dan berkah dari Allah semoga juga tercurah atas kami, dan juga atas seluruh hamba Allah yang sholeh. Aku bersaksi bahwa tiada Tuhan selain Allah dan bahwa Muhammad adalah utusan Allah. Ya Allah, limpahkanlah rahmat dan keselamatan untuk Nabi Muhammad. Dan juga limpahkanlah rahmat dan keselamatan kepada keluarga Muhammad.”</string>
+    <string name="fiqih_sholat100">untuk duduk tasyahud akhir, dilakukan dengan posisi tawarruk yang sama seperti iftirasy, tetapi ada sedikit bedanya yakni dengan mengeluarkan kaki kiri pada bagian bawah kaki kanan, serta menempelkan bokong pada lantai.
+Posisi tangan kiri diletakkan di antara lutut dan paha kaki kiri, begitu pun dengan tangan kanan diletakkan pada atas lutut dan paha kaki kanan. Sementara jari-jari tangan agak direnggangkan, dan jari telunjuk digandengkan dengan ibu jari untuk diacungkan.
+Adapun bacaan shalawat kepada Nabi SAW diwajibkan pada tasyahud akhir. Sehingga pada tasyahud akhir membaca:</string>
+    <string name="fiqih_sholat101">اَللهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَا مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلَى سَيِّدِنَااِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْمَ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِ سَيِّدِنَامُحَمَّدٍ كَمَا بَرَكْتَ عَلَى سَيِّدِنَا اِبْرَاهِيْمَ وَعَلَى آلِ سَيِّدِنَا اِبْرَاهِيْمَ حَمِيْدٌ مَجِيْدٌ</string>
+    <string name="fiqih_sholat102">Artinya : “Ya Allah, limpahkanlah rahmat dan keselamatan untuk Nabi Muhammad. Dan juga limpahkanlah rahmat dan keselamatan kepada keluarga Muhammad, sebagaimana telah Engkau limpahkan rahmat dan keselamatan kepada Ibrahim dan kepada keluarga Ibrahim.Limpahkanlah keberkahan kepada Muhammad dan kepada keluarga Muhammad, sebagaimana Engkau telah melimpahkan keberkahan kepada Ibrahim dan kepada keluarga Ibrahim. Di seluruh alam semesta, sesungguhnya Engkau adalah Maha Terpuji lagi Maha Agung.”</string>
+    <string name="fiqih_sholat103">Salam merupakan gerakan terakhir dalam rangkaian sholat. Dikatakan bahwa salam dilakukan dua kali, dengan menoleh ke kanan sehingga pipi kanan terlihat dari belakang, dan yang kedua sambil menoleh ke kiri sehingga pipi kiri juga terlihat dari belakang.</string>
+    <string name="fiqih_sholat104">اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللهِ</string>
+    <string name="fiqih_sholat105">Artinya : “Semoga keselamatan serta rahmat Allah dan juga keberkahannya terlimpah untukmu.”</string>
+    <string name="fiqih_sholat106">Adik-adik sholeh dan sholehah yang budiman! Setelah kita pelajari tentang shalat, ada yang perlu diperhatikan lagi, yaitu hal-hal yang dapat membatalkan shalat.
+Adapun hal yang dapat membatalkan shalat ada lima :
+    a)	Makan dan minum dengan sengaja. Makanya adik-adik sebelum melakukan shalat pastikan tidak ada sisa makanan yang terselip dalam mulut, bisa jadi nanti pas shalatitu kita rasakan dan kemudian tertelan, itu dapat membatalkan sholat.
+    b)	Berbicara dengan sengaja, makanya bagi adik-adik yang punya teman anak-anak yang jahil dan usil, diwaktu shalat sebaiknya tidak berjajar dengan mereka dikarenakan mereka berpeluang besar mengganggu ke khusukan ibadah shalat kamu.
+    c)	Banyak bergerak dengan sengaja juga membatalkan shalat
+    d)	Meninggalkan syarat dan rukun yang ada dalam shalat dengan sengaja semisal karena terburu-buru mau main, kemudian sengaja tidak membaca surah Al-Fatihah maka itu akan membuat shalat kamu batal.
+    e)	Tertawa.</string>
+    <string name="fiqih_sholat107">Shalat sunnah merupakan pelengkap dan penyempurna untukshalat fadhu, amksudnya adalah jika dalam shalat fardhu ada kekurangan baik itu syarat atau rukunnya, maka shalat sunnah bertujuan untuk menyempurnakan rukun atau syarat tersebut.</string>
+    <string name="fiqih_sholat108">•Shalat Sunnah Rawatib Muakkad
+Shalat sunnah rawatib muakkad (yang selalu dilakukan oleh Nabi) adalah shalat sunnah yang mengiringi shalat fardhu, yaitu dua raka’at sebelum shalat dzuhur, dua rakaat sesudah shalat dzuhur, dua rakaat sesudah shalat maghrib, dua rakaat sesudah shalat isya, dan dua rakaat sebelum subuh.</string>
+    <string name="fiqih_sholat109">•Shalat Sunnah Rawatib yang Tidak Muakkad
+Shalat sunnah rawatib ghoiru muakkad yaitu shalat sunnah yang ghoiru muakkad (yang tidak seelalu dilakukan nabi) yang mengiringi shalat fardhu. Adapun jumlahnya ada 8 rakaat yaitu 4 rakaat sebelum shalat ashar, 2 rakaat sebelum shalat maghrib, dan dua rakaat sebelum shalat isya.</string>
+    <string name="fiqih_sholat110">•Shalat Malam
+Melakukan shalat malam yaitu melakukan shalat tahajjud, shalat witir, waktu malam adalah antara shalat isya sampai terbitnya fajar.</string>
+    <string name="fiqih_sholat111">•Shala Dhuha
+Shalat dhuha merupakan shalat sunnah yang dikerjakan pada waktu dhuha. Waktu dhuha merupakan waktu dimana matahari telah terbit atau naik kurang lebih 7 hasta hingga terasa panas menjelang shalat dzuhur atau sekitar jam 7 sampai jam 11.</string>
+
+    <!--Puasa-->
+    <string name="fiqih_puasa1">Adik-adik kata Puasa dalam bahasa arab disebut shiyam atau saum yang berarti menahan. Adapun secara syar’I puasa diartikan : mencegah atau menahan diri dari amakn dan minum serta hubungan sexual mulai dari terbitnya fajar sampai terbenamnya matahari. Sebagai orang islam, kita mempunyai kewajiban untuk berpuasa setiap tahunnya yaitu pada bulan Ramadhan. Orang terdahulu juga sudah mendapatkan perintah untuk melaksanakan puasa Ramadhan. Allah SWT. Berfirman :</string>
+    <string name="fiqih_puasa2">يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ</string>
+    <string name="fiqih_puasa3">Artinya: Hai orang-orang yang beriman, diwajibkan atas kamu berpuasa sebagaimana diwajibkan atas orang-orang sebelum kamu agar kamu bertakwa. (Q.S. Al-Baqarah : 183)</string>
+    <string name="fiqih_puasa4">1.	Berakal
+2.	Baligh (sudah mencapai umur)
+3.	Kuat berpuasa
+4.	Islam
+5.	Mumayiz (dapat membedakan baik dan buruk)
+6.	Suci dari haid dan nifas ataupun wiladah
+7.	Dikerjakan pada hari yang diperbolehkan berpuasa</string>
+    <string name="fiqih_puasa5">a.	Niat
+b.	Menahan diri dari segala yang membatalkan puasa sejak terbitnya fajar sampai terbenamnya matahari.</string>
+    <string name="fiqih_puasa6">a.	Makan dan minum
+b.	Muntah dengan sengaja
+c.	Keluar darah haid dan nifas
+d.	Gila</string>
+    <string name="fiqih_puasa7">Adik-adik yang budiman, dalam berpuasa disamping kita dilatih untuk mengendalikan hawa dan nafsu, juga dilatih untuk memupuk akhlak dan moral kita dengan merasa lemah dan merasakan penderitaan orang-orang yang hidupnya kekurangan. Ada beberapa ajaran akhlak yang ada dalam puasa, diantaranya :
+•	Persamaan selaku hamba Allah
+•	Perikemanusiaan khususnya suka memberi pada orang yang tak punya
+•	Ketabahan menghadapi cobaan dan godaan
+•	Bersahabat tidak suka bertengkar
+•	Jujur dan disiplin</string>
+    <string name="fiqih_puasa8">Adik-adik secara mudahnya puasa itu dibagi menjadi dua puasa yang wajib dan puasa yang sunnah.</string>
+    <string name="fiqih_puasa9">-	Puasa Ramadhan
+-	Puasa Nadzar
+-	Puasa Kifarat
+-	Puasa Qodho’</string>
+    <string name="fiqih_puasa10">-	Puasa senin dan kamis
+-	Puasa hari putih yaitu pada tanggal 13, 14, 15, pada kalender qomariyah
+-	Puasa hari arafah
+-	Puasa tanggal 10 Muharram
+-	Puasa Sya’ban
+-	Puasa Dawud</string>
+    <string name="fiqih_puasa11">Ada beberapa hal yang perlu diperhatikan dalam berpuasa :
+•	Berniat dengan ikhlas hanya dalam rangka pengabdian kepada Allah
+•	Makan sahur, agar stamina diwaktu berpuasa tidak terlalu lemah dan lemas
+•	Menjauhkan diri dari hal-hal yang membatalkan puasa maupun yang mengurangi nilai puasa, seperti bohong, berkata kotor.
+•	Usahakan berjamaah shalat tatkala berpuasa.
+•	Bersegeralah berbuka tatkala sudah tiba waktunya berbuka
+•	Berbukalah dengan yang manis seperti kurma, dan lai-lain.
+•	Berdoa jangan sampai lupa diwaktu mau berbuka
+•	Memberi makan pada sesame yang sedang berpuasa
+•	Banyak bersedekah
+•	Ber i’tikaf</string>
+
+    <!--SedekatZakat-->
+    <string name="fiqih_zakat1">Adik-adik tentunya kalian sudah tidak asing dengan istilah zakat, diwaktu kita selesai mengerjakan puasa selama satu bulan pada waktu Ramadhan, tentu dari kalian sering mendengar kata-kata zakat disebut saat itu.</string>
+    <string name="fiqih_zakat2">Zakat adalah suatu nama bagi pengambilan sesuatu yang tertentu pada orang tertentu dan dari harta yang tertentu serta diberikan pada orang yang tertentu. Sedangkan sedekah adalah memberikan sebagian harta yang kita miliki kepada orang yang berhak menerimanya, berbeda dengan zakat, sedekah tidak terikat jumlah waktu.</string>
+    <string name="fiqih_zakat3">Zakat secara garis besar dibagi atas dua bagian. Pertama disebut zakat jiwa (zakat fitrah) dengan arti zakat ini untuk mensucikan jiwa seseorang, zakat ini dikeluarkan pada waktu malam idul fitri. Kedua adalah zakat harta benda, tentunya ini dikeluarkan jika memenuhi syarat dan ketentuannya.</string>
+    <string name="fiqih_zakat4">-	Barang logam (emas dan perak)
+-	Barang hasil pertanian (kurma, gandum, padi, dan lain-lain)</string>
+    <string name="fiqih_zakat5">Syarat-syarat wajib zakat bagi harta benda yang dikenakan zakat adalah :
+a.	Cukup haul artinya harta yang sampai nisab itu sudah dimiliki satu tahun.
+b.	Cukup nisab artinya harta yang dimiliki banyaknya sudah mencapai Batasan yang harus mengeluarkan zakat</string>
+    <string name="fiqih_zakat6">1.	Orang Kafir : yaitu orang yang amat sengsara hidupnya, tidak mempunyai harta dan tenaga untuk memenuhi penghidupannya.
+2.	Orang miskin : yaitu orang yang tidak cukup penghidupannya dan dalam keadaan kurang.
+3.	Amil : yaitu orang yang diberi tugas untuk mengumpulkan dan membagikan zakat atau pengutus zakat.
+4.	Muallaf : yaitu orang kafir yang ada harapan masuk islam dan orang yang baru masuk islam yang imannya masih lemah.
+5.	Riqab : riqab maksudnya memerdekakan budak. Hal ini mencakup untuk melepaskan muslim yang ditawan oleh orang-orang kafir.
+6.	Berhutang : yaitu orang yang berhutang karena untuk kepentingan yang bukan maksiat dan tidak sanggup membayarnya. Adapun orang yang berhutang untuk memelihara persatuan umat islam dibayar hutangnya itu dengan zakat, walaupun ia mampu membayarnya.
+7.	Sabilillah : secara harfiah bermakna jalan Allah yaitu untuk keperluan pertahanan islam dan kaum muslimin. Diantara musafirin ada yang berpendapat bahwa fisabilillah itu mencakup juga kepentingan-kepentingan umum seperti mendrikan sekolah, rumah sakit, dan lain-lain.
+8.	Ibnu Sabil : yaitu orang yang sedang dalam perjalanan yang bukan maksiat mengalami kesengsaraan dalam perjalanannya.</string>
+    <string name="fiqih_zakat7">Tujuan zakat sebagai salah satu rukun islam memiliki tujuan yang sangat banyak :
+-	Hubungan manusia dengan Allah
+-	Hubungan manusia dengan dirinya sendiri
+-	Hubungan manusia dengan masyarakat
+-	Hubungan manusia dengan harta benda</string>
+    <string name="fiqih_zakat8">Lima macam makanan dan satu minuman yang diharamkan, untuk dikonsumsi, yaitu :
+•	Bangkai
+•	Darah
+•	Daging babi
+•	Binatang yang disembelih dengan tidak menyebut nama Allah
+•	Khamer</string>
+</resources>

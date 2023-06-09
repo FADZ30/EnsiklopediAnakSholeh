@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/drawer_layout"
+    android:layout_height="match_parent"
+    tools:context=".akidah_menu">
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/nav_view_akidah"
+        app:headerLayout="@layout/header_dashboard"
+        app:menu="@menu/main_menu"
+        android:layout_gravity="start"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/akidah_toolbar"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:minHeight="?attr/actionBarSize"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:navigationIcon="@drawable/menu" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintTop_toBottomOf="@id/akidah_toolbar">
+
+                <TextView
+                    android:padding="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Akidah Anak Sholeh"
+                    android:textStyle="bold"
+                    android:textSize="30sp"
+                    android:fontFamily="@font/brandon_grotesque_black"/>
+
+                <RelativeLayout
+                    android:id="@+id/materi_iman"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#5aa832"
+                    android:clickable="true">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:textColor="@color/black"
+                        android:padding="10dp"
+                        android:text="Iman"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:text="Menjelaskan Mengenai \nApa Itu Iman" />
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_alignParentRight="true"
+                        android:src="@drawable/cat_2"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rukun_iman"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#8bab16">
+
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/cat_iman" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:fontFamily="@font/baloo"
+                        android:padding="10dp"
+                        android:text="Rukun Iman"
+                        android:textColor="@color/black"
+                        android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:text="Menjelaskan Perihal Rukun Iman \nYang Wajib di Imani" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/materi_islam"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#c5e016">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:textColor="@color/black"
+                        android:padding="10dp"
+                        android:text="Islam"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:text="Menjelaskan Mengenai \nApa Itu Islam" />
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_alignParentRight="true"
+                        android:src="@drawable/cat_3"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/kehidupan_kedua"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#d1bd0a">
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:src="@drawable/cat_1"
+                        android:layout_marginLeft="20dp"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:textColor="@color/black"
+                        android:padding="10dp"
+                        android:text="Kehidupan Kedua"
+                        android:layout_alignParentRight="true"
+                        android:textSize="30sp"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:layout_alignParentRight="true"
+                        android:text="Menjelaskan Kehidupan Yang Dilalui \nSetlah Kematian" />
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</androidx.drawerlayout.widget.DrawerLayout>

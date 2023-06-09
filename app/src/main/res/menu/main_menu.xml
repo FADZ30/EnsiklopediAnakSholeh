@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:icon="@drawable/home_icon"/>
+    </group>
+
+    <item android:title="List Materi">
+        <menu>
+            <item
+                android:id="@+id/nav_akhlak"
+                android:title="Akhlak Anak Sholeh"
+                android:icon="@drawable/akhlak_icon"/>
+            <item
+                android:id="@+id/nav_akidah"
+                android:title="Akidah Anak Sholeh"
+                android:icon="@drawable/icon_akidah"/>
+            <item
+                android:id="@+id/nav_doa"
+                android:title="Mari Berdo'a"
+                android:icon="@drawable/doa_icon"/>
+            <item
+                android:id="@+id/nav_fiqih"
+                android:title="Fiqih Anak Sholeh"
+                android:icon="@drawable/fiqih_icon"/>
+            <item
+                android:id="@+id/nav_hadis"
+                android:title="Hadits"
+                android:icon="@drawable/hadis_icon"/>
+            <item
+                android:id="@+id/nav_kisahnabi"
+                android:title="Kisah 25 Nabi dan Rasul"
+                android:icon="@drawable/kisah_icon"/>
+        </menu>
+    </item>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Share"
+                android:icon="@drawable/share_icon"/>
+            <item
+                android:id="@+id/nav_rate"
+                android:title="Rate Us"
+                android:icon="@drawable/rate_icon"/>
+            <item
+                android:id="@+id/nav_feedback"
+                android:title="Feedback"
+                android:icon="@drawable/feedback_icon"/>
+            <item
+                android:id="@+id/nav_setting"
+                android:title="Pengaturan"
+                android:icon="@drawable/setup_icon"/>
+            <item
+                android:id="@+id/nav_panduan"
+                android:title="Panduan"
+                android:icon="@drawable/panduan_icon"/>
+        </menu>
+    </item>
+</menu>

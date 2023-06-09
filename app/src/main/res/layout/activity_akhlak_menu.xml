@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/drawer_layout1"
+    android:layout_height="match_parent"
+    tools:context=".akhlak_menu">
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/nav_view_akhlak"
+        app:headerLayout="@layout/header_dashboard"
+        app:menu="@menu/main_menu"
+        android:layout_gravity="start"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/akhlak_toolbar"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:minHeight="?attr/actionBarSize"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:navigationIcon="@drawable/menu" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintTop_toBottomOf="@id/akhlak_toolbar">
+
+                <TextView
+                    android:padding="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Akhlak Anak Sholeh"
+                    android:textStyle="bold"
+                    android:textSize="30sp"
+                    android:fontFamily="@font/brandon_grotesque_black"/>
+
+                <RelativeLayout
+                    android:id="@+id/materi_arti_akhlak"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#db8ba3"
+                    android:clickable="true">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:textColor="@color/black"
+                        android:padding="10dp"
+                        android:text="Arti Akhlak"
+                        android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:text="Menjelaskan Pengertian \nDari Akhlak" />
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_alignParentRight="true"
+                        android:src="@drawable/arti_akhlak"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/macam_akhlak"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#9e57cd">
+
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/macam_akhlak" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:fontFamily="@font/baloo"
+                        android:padding="10dp"
+                        android:text="Akhlak 2"
+                        android:textColor="@color/black"
+                        android:textSize="30sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:text="Menjelaskan Macam-Macam \n Akhlak Yang Perlu Diketahui" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/praktik_akhlak"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#ba809f">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:textColor="@color/black"
+                        android:padding="10dp"
+                        android:text="Praktik Akhlak"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:text="Melakukan Praktik Yang Berkaitan \nDengan Akhlak Terpuji"/>
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_alignParentRight="true"
+                        android:src="@drawable/praktik_akhlak"/>
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.drawerlayout.widget.DrawerLayout>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Aplikasi"
+        tools:targetApi="31">
+        <activity
+            android:name=".zakat_sedekah"
+            android:exported="false" />
+        <activity
+            android:name=".wudhu"
+            android:exported="false" />
+        <activity
+            android:name=".tayamum"
+            android:exported="false" />
+        <activity
+            android:name=".shalat"
+            android:exported="false" />
+        <activity
+            android:name=".puasa"
+            android:exported="false" />
+        <activity
+            android:name=".najis"
+            android:exported="false" />
+        <activity
+            android:name=".macam_akhlak"
+            android:exported="false" />
+        <activity
+            android:name=".arti_akhlak"
+            android:exported="false" />
+        <activity
+            android:name=".hadis_5"
+            android:exported="false" />
+        <activity
+            android:name=".hadis_4"
+            android:exported="false" />
+        <activity
+            android:name=".hadis_3"
+            android:exported="false" />
+        <activity
+            android:name=".hadis_2"
+            android:exported="false" />
+        <activity
+            android:name=".hadis_1"
+            android:exported="false" />
+        <activity
+            android:name=".doa_5"
+            android:exported="false" />
+        <activity
+            android:name=".doa_4"
+            android:exported="false" />
+        <activity
+            android:name=".doa_3"
+            android:exported="false" />
+        <activity
+            android:name=".doa_2"
+            android:exported="false" />
+        <activity
+            android:name=".doa_1"
+            android:exported="false" />
+        <activity
+            android:name=".kehidupan_kedua"
+            android:exported="false" />
+        <activity
+            android:name=".rukun_iman"
+            android:exported="false" />
+        <activity
+            android:name=".islam"
+            android:exported="false" />
+        <activity
+            android:name=".iman"
+            android:exported="false" />
+        <activity
+            android:name=".nabi_menu"
+            android:exported="false" />
+        <activity
+            android:name=".doa_menu"
+            android:exported="false" />
+        <activity
+            android:name=".hadis_menu"
+            android:exported="false" />
+        <activity
+            android:name=".fiqih_menu"
+            android:exported="false" />
+        <activity
+            android:name=".akidah_menu"
+            android:exported="false" />
+        <activity
+            android:name=".akhlak_menu"
+            android:exported="false" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".intro_page"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/drawer_layout3"
+    android:layout_height="match_parent"
+    tools:context=".hadis_menu">
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/nav_view_hadis"
+        app:headerLayout="@layout/header_dashboard"
+        app:menu="@menu/main_menu"
+        android:layout_gravity="start"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/hadis_toolbar"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:minHeight="?attr/actionBarSize"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:navigationIcon="@drawable/menu" />
+
+            <LinearLayout
+                android:id="@+id/linearLayout3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintTop_toBottomOf="@id/hadis_toolbar">
+
+                <TextView
+                    android:padding="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Daftar Hadist"
+                    android:textStyle="bold"
+                    android:textSize="30sp"
+                    android:fontFamily="@font/brandon_grotesque_black"/>
+
+                <RelativeLayout
+                    android:id="@+id/hadis1"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#f76a65"
+                    android:clickable="true">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:textColor="@color/black"
+                        android:padding="10dp"
+                        android:text="Menutup Aurat"
+                        android:textSize="30sp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:text="Hadist Tentang Perintah \n Menutup Aurat" />
+
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentBottom="true"
+                        android:layout_marginRight="-2dp"
+                        android:layout_marginBottom="-2dp"
+                        android:src="@drawable/hadis_1"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/hadis2"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#f0af69">
+
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_marginLeft="20dp"
+                        android:src="@drawable/hadis_2" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:fontFamily="@font/baloo"
+                        android:padding="10dp"
+                        android:text="Memberi Senyuman"
+                        android:textColor="@color/black"
+                        android:textSize="26sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:text="Hadist Tentang Keutamaan \nMemberi Senyuman"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/hadis3"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#783585">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:textColor="@color/black"
+                        android:padding="10dp"
+                        android:text="Saling Menyayangi"
+                        android:textSize="28sp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:text="Hadis Tetntang Perintah \nSaling Menyayangi" />
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_alignParentRight="true"
+                        android:src="@drawable/hadis_3"/>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/hadis4"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#077ba8">
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:src="@drawable/hadis_4"
+                        android:layout_marginLeft="20dp"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:textColor="@color/black"
+                        android:padding="10dp"
+                        android:text="Menjaga Lisan"
+                        android:layout_alignParentRight="true"
+                        android:textSize="30sp"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:layout_alignParentRight="true"
+                        android:text="Hadist Tentang Perintah \nMenjaga Lisan" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/hadis5"
+                    android:layout_width="match_parent"
+                    android:layout_height="110dp"
+                    android:layout_margin="20dp"
+                    android:background="#731e05">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/baloo"
+                        android:textColor="@color/black"
+                        android:padding="10dp"
+                        android:text="Saudara Muslim"
+                        android:textSize="25sp" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:fontFamily="@font/baloo_bhai_2"
+                        android:padding="10dp"
+                        android:text="Hadis Mengenai \nSaudara Sesama Muslim" />
+                    <ImageView
+                        android:layout_width="110dp"
+                        android:layout_height="110dp"
+                        android:layout_alignParentRight="true"
+                        android:src="@drawable/hadis_5"/>
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+</androidx.drawerlayout.widget.DrawerLayout>
